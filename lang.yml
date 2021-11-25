@@ -1,0 +1,4 @@
+nopermission: '&cSem permissão para realizar esta ação.'
+nopermissiongroup: '&cVocê precisa das permissões de %group% &r&cou superior para realizar esta ação.\nSe acha que isto é um erro, contate a administração do servidor.'
+commandusage: '&cUso: /%cmd%'
+noplayermatch: '&cNenhum jogador com o nome "%nick%" parece ter jogado no servidor antes. :/'

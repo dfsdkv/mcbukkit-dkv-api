@@ -1,0 +1,4 @@
+main: dfs.dkv.api.DkvAPI
+name: DkvAPI
+version: 1.0
+author: dkv_dfs
